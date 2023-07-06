@@ -1,6 +1,6 @@
 ## Women in Tech! 👩‍💻 
 
-### This non-profit project is my dedication to helping my 😍💁‍♀️ learn to code! <3. As I always strive for diversity in Computer Science. 😊
+### This non-profit project, with the aim of improving diversity and accessibility in computer science, is my dedication to helping my 💁‍♀️ learn to code! <3. 
 
 #### Time commitment per week: 12 hours
 
